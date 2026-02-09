@@ -1,0 +1,8 @@
+{
+  "name": "ManjitLearning - Premium E-Learning",
+  "description": "A Nepal-focused, high-end e-learning platform specializing in AI, design, and productivity, featuring a sleek tech-style black and gold theme.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
